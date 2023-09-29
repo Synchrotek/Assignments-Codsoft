@@ -1,1 +1,1 @@
-# Assignments-Codsoft
+# CODSOFT Internship Assignments
